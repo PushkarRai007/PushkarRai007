@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </p>
   
-- 🔭 I’m currently working on **Nothing**
 - 🌱 I’m currently learning **C Language**
 - 👨‍💻 All of my projects are available at https://www.github.com/PushkarRai007
 - 📫 How to reach me **https://www.linkedin.com/in/pushkar-rai-6b04a3253**

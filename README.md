@@ -24,15 +24,17 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
  </div>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PushkarRai007&show_icons=true&locale=en" alt="PushkarRai007" /></p>
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PushkarRai007&theme=dark&show_icons=true&locale=en" alt="PushkarRai007" /></p>
 <!-- <br> -->
 
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PushkarRai007&theme=dark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PushkarRai007&" alt="PushkarRai007" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PushkarRai007&show_icons=true&locale=en&layout=compact" alt="PushkarRai007" /></p>
+ 
+
+
+
 
 
 
